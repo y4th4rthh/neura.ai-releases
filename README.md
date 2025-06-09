@@ -43,5 +43,5 @@ Neura comes in three variants to fit different user needs:
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use the [GitHub Issues](https://github.com/neura.ai-releases/issues) page to report bugs or request features.
+Please use the [GitHub Issues](https://github.com/y4th4rthh/neura.ai-releases/issues) page to report bugs or request features.
 
