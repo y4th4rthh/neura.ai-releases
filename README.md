@@ -41,12 +41,7 @@ Neura comes in three variants to fit different user needs:
 
 ---
 
-## 🛠️ Installation & Setup
+## 🐛 Bug Reports & Feature Requests
 
-### Prerequisites
-
-- Node.js
-- Python 3.9+
-- pip / poetry
-- (Optional) Docker
+Please use the [GitHub Issues](https://github.com/neura.ai-releases/issues) page to report bugs or request features.
 
