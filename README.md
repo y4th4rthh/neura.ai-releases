@@ -4,9 +4,6 @@
 
 Built with a modern tech stack—**React** for the frontend and **FastAPI (Python)** for the backend—Neura.ai is fast, modular, and scalable.
 
-### Live Preview:
-https://neura-ai.netlify.app/
-
 ---
 
 ## 🔊 Key Features
