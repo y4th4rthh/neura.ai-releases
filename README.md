@@ -13,18 +13,20 @@ Built with a modern tech stack—**React** for the frontend and **FastAPI (Pytho
 - ⚡ **Fast & Responsive**: Multiple plan tiers to suit your speed and feature requirements.
 - 💻 **Modern Stack**: React + FastAPI for robust frontend/backend development.
 - 🎨 **Chat Interface**: Clean, intuitive UI inspired by top voice assistants.
+- 📰 **Real-Time News Suggestions**: Stay informed with the latest highlights from the past 6 hours.
 
 ---
 
 ## 🧠 Modal Plans
 
-Neura comes in three variants to fit different user needs:
+Neura comes in multiple variants to fit different user needs:
 
-| Plan Name            | Speed            | Features                   | Availability              | Price         |
-|----------------------|------------------|----------------------------|---------------------------|---------------|
-| **neura.essence1.o** | 🐢 Ordinary       | Basic GPT + Voice Assist   | ✅ Available               | Free          |
-| **neura.swift1.o**   | 🚀 Faster         | Enhanced GPT, faster voice | ✅ Available (Limited Use) | Free          |
-| **neura.infinity1.o**| ⚡ Lightning Fast | Pro GPT, priority handling | ❌ Dev only (Coming Soon)  | Paid (TBA)    |
+| Plan Name            | Speed            | Features                            | Availability              | Price         |
+|----------------------|------------------|-------------------------------------|---------------------------|---------------|
+| **neura.essence1.o** | 🐢 Ordinary       | Basic GPT + Voice Assist            | ✅ Available               | Free          |
+| **neura.vista1.o**   | 🧠 Smart Web Mode | Specialized in web content summarization | ✅ Available              | Free          |
+| **neura.swift1.o**   | 🚀 Faster         | Enhanced GPT, faster voice          | ✅ Available (Limited Use) | Free          |
+| **neura.infinity1.o**| ⚡ Lightning Fast | Pro GPT, priority handling          | ❌ Dev only (Coming Soon)  | Paid (TBA)    |
 
 ---
 
@@ -38,7 +40,35 @@ Neura comes in three variants to fit different user needs:
 
 ---
 
-## 🐛 Bug Reports & Feature Requests
+## 🛠️ Installation & Setup
 
-Please use the [GitHub Issues](https://github.com/y4th4rthh/neura.ai-releases/issues) page to report bugs or request features.
+### Prerequisites
+
+- Node.js
+- Python 3.9+
+- pip / poetry
+- (Optional) Docker
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/y4th4rthh/neura.ai.git
+cd neura.ai
+```
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+### Backend Setup
+
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
 
