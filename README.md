@@ -5,12 +5,12 @@
 Built with a modern tech stack—**React** for the frontend and **FastAPI (Python)** for the backend—Neura.ai is fast, modular, and scalable.
 
 ---
-## Live Preview
+## 🌐 Live Preview
 
 https://neura-ai.netlify.app/
 
 ---
-## Outlook
+## 📌 Outlook
 
 ### neura.essence.1.o
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20101853.png)
@@ -48,10 +48,10 @@ Neura comes in multiple variants to fit different user needs:
 
 | Plan Name            | Speed            | Features                            | Availability              | Price         |
 |----------------------|------------------|-------------------------------------|---------------------------|---------------|
-| **neura.essence1.o** | 🐢 Ordinary       | Basic GPT + Voice Assist            | ✅ Available               | Free          |
-| **neura.vista1.o**   | 🧠 Smart Web Mode | Specialized in web content summarization | ✅ Available              | Free          |
-| **neura.swift1.o**   | 🚀 Faster         | Enhanced GPT, faster voice          | ✅ Available (Limited Use) | Free          |
-| **neura.infinity1.o**| ⚡ Lightning Fast | Pro GPT, priority handling          | ❌ Dev only (Coming Soon)  | Paid (TBA)    |
+| **neura.essence1.o** | 🐢 Ordinary but classic       | Basic GPT + Hybrid Ai Mode + Live search           | ✅ Available               | Free          |
+| **neura.vista1.o**   | 🧠 Smart Web Mode | Specialized in reddit content summarization | ✅ Available (Limited Use)             | Free          |
+| **neura.swift1.o**   | 🚀 Faster is better        | Enhanced GPT + Hybrid Ai Mode + Live search + Voice recognition          | ✅ Available (Limited Use) | Free          |
+| **neura.infinity1.o**| ⚡ Lightning Fast | Ai powered doc insight and summarizor         | ✅ Available (Limited Use)  | Free    |
 
 ---
 
@@ -65,6 +65,5 @@ Neura comes in multiple variants to fit different user needs:
 
 ---
 
-
-### Source Code is proprietary atp
+### 🙂 Source Code is proprietary atp check live app through above url
 
