@@ -5,6 +5,9 @@
 Built with a modern tech stack—**React** for the frontend and **FastAPI (Python)** for the backend—Neura.ai is fast, modular, and scalable.
 
 ---
+## Outlook
+
+---
 
 ## 🔊 Key Features
 
@@ -40,35 +43,6 @@ Neura comes in multiple variants to fit different user needs:
 
 ---
 
-## 🛠️ Installation & Setup
 
-### Prerequisites
-
-- Node.js
-- Python 3.9+
-- pip / poetry
-- (Optional) Docker
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/y4th4rthh/neura.ai.git
-cd neura.ai
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-### Backend Setup
-
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
+### Source Code is proprietary atp
 
