@@ -5,7 +5,29 @@
 Built with a modern tech stack—**React** for the frontend and **FastAPI (Python)** for the backend—Neura.ai is fast, modular, and scalable.
 
 ---
+## Live Preview
+
+https://neura-ai.netlify.app/
+
+---
 ## Outlook
+
+### neura.essence.1.o
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20101853.png)
+### neura.essence.1.o (Prompt Generation tool)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20101939.png)
+### neura.vista.1.o
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20101952.png)
+### neura.swift.1.o
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102006.png)
+### neura.swift.1.o (Hybrid Ai mode)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102023.png)
+### neura.infinity.1.o
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102103.png)
+### neura.infinity.1.o (Doc uploader)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102119.png)
+### Ai studio -- Custom GPTs (with sidebar insights)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102144.png)
 
 ---
 
