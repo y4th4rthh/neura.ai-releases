@@ -15,7 +15,7 @@ https://neura-ai.netlify.app/
 https://neura-inc.netlify.app/
 
 ---
-## 💻 Our Apps:
+## 💻 Our Apps
 
 *1. Neura.ai (Windows)*
 
