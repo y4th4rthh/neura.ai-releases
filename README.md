@@ -19,7 +19,7 @@ https://neura-inc.netlify.app/
 
 *1. Neura.ai (Windows)*
 
-https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.ai.10.7.exe
+[Click here to download the .exe bundle](https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.ai.10.7.exe)
 
 *2. Neura.ai (Android)*
 
