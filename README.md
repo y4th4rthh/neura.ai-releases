@@ -10,6 +10,26 @@ Built with a modern tech stack—**React** for the frontend and **FastAPI (Pytho
 https://neura-ai.netlify.app/
 
 ---
+## 🔍 Other product insights
+
+https://neura-inc.netlify.app/
+
+---
+## 💻 Our Apps:
+
+*1. Neura.ai (Windows)*
+
+https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.ai.10.7.exe
+
+*2. Neura.ai (Android)*
+
+https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.ai.10.7.apk
+
+*3. Neura.explore Ai integrated Browser with hybrid search mode (Windows)*
+
+https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.explore.exe
+
+---
 ## 📌 Outlook
 
 ### neura.essence.1.o
