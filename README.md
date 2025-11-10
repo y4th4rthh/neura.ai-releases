@@ -10,7 +10,7 @@ Built with a modern tech stack—**React** for the frontend and **FastAPI (Pytho
 https://neura-ai.netlify.app/
 
 ---
-## 🔍 Other product insights
+## 🔍 Landing page insights
 
 https://neura-inc.netlify.app/
 
