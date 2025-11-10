@@ -4,7 +4,7 @@
 
 Built with a modern tech stack—**React** for the frontend and **FastAPI (Python)** for the backend—Neura.ai is fast, modular, and scalable.
 
-**Source code of Neura.ai is proprietary atp check live app through above url**
+**Source code of Neura.ai is proprietary atp check live app through below url**
 
 **The current repo contains the source code of the landing page of Neura.ai**
 
