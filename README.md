@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Neura.ai
 
-## Getting Started
+**Neura.ai** is a cutting-edge AI assistant powered by GPT with built-in voice interaction. Designed for seamless, real-time conversations, Neura combines the intelligence of large language models with the convenience of speech to deliver a smart, natural, and hands-free user experience.
 
-First, run the development server:
+Built with a modern tech stack—**React** for the frontend and **FastAPI (Python)** for the backend—Neura.ai is fast, modular, and scalable.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
+## 🌐 Live Preview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://neura-ai.netlify.app/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
+## 🔍 Other product insights
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+https://neura-inc.netlify.app/
 
-## Learn More
+---
+## 💻 Our Apps
 
-To learn more about Next.js, take a look at the following resources:
+*1. Neura.ai (Windows)*
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Click here to download the .exe bundle](https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.ai.10.7.exe)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+*2. Neura.ai (Android)*
 
-## Deploy on Vercel
+[Click here to download the .apk bundle](https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.ai.10.7.apk)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+*3. Neura.explore Ai integrated Browser with hybrid search mode (Windows)*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[Click here to download the installer](https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.explore.exe)
+
+---
+## 📌 Outlook
+
+### neura.essence.1.o
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20101853.png)
+### neura.essence.1.o (Prompt Generation tool)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20101939.png)
+### neura.vista.1.o
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20101952.png)
+### neura.swift.1.o
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102006.png)
+### neura.swift.1.o (Hybrid Ai mode)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102023.png)
+### neura.infinity.1.o
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102103.png)
+### neura.infinity.1.o (Doc uploader)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102119.png)
+### Ai studio -- Custom GPTs (with sidebar insights)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20102144.png)
+
+---
+
+## 🔊 Key Features
+
+- 🎤 **Voice Interaction**: Speak and listen to Neura just like a real assistant.
+- 💡 **GPT Intelligence**: Backed by a powerful LLM for smart and contextual responses.
+- ⚡ **Fast & Responsive**: Multiple plan tiers to suit your speed and feature requirements.
+- 💻 **Modern Stack**: React + FastAPI for robust frontend/backend development.
+- 🎨 **Chat Interface**: Clean, intuitive UI inspired by top voice assistants.
+- 📰 **Real-Time News Suggestions**: Stay informed with the latest highlights from the past 6 hours.
+
+---
+
+## 🧠 Modal Plans
+
+Neura comes in multiple variants to fit different user needs:
+
+| Plan Name            | Speed            | Features                            | Availability              | Price         |
+|----------------------|------------------|-------------------------------------|---------------------------|---------------|
+| **neura.essence1.o** | 🐢 Ordinary but classic       | Basic GPT + Hybrid Ai Mode + Live search           | ✅ Available               | Free          |
+| **neura.vista1.o**   | 🧠 Smart Web Mode | Specialized in reddit content summarization | ✅ Available (Limited Use)             | Free          |
+| **neura.swift1.o**   | 🚀 Faster is better        | Enhanced GPT + Hybrid Ai Mode + Live search + Voice recognition          | ✅ Available (Limited Use) | Free          |
+| **neura.infinity1.o**| ⚡ Lightning Fast | Ai powered doc insight and summarizor         | ✅ Available (Limited Use)  | Free    |
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend**: [React](https://reactjs.org/)
+- **Backend**: [FastAPI](https://fastapi.tiangolo.com/)
+- **Voice**: Web Speech API (Frontend) + TTS/STT services (Backend)
+- **LLM**: GPT-based content generation
+- **Deployment**: Docker (optional), hosted on cloud environments
+
+---
+
+### 🙂 Source Code is proprietary atp check live app through above url
+
