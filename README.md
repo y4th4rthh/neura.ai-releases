@@ -84,9 +84,9 @@ Neura comes in multiple variants to fit different user needs:
 
 - **Frontend**: [React](https://reactjs.org/)
 - **Backend**: [FastAPI](https://fastapi.tiangolo.com/)
-- **Voice**: Web Speech API (Frontend) + TTS/STT services (Backend)
+- **Voice**: Web Speech API (Frontend) + Google TTS/STT services (Backend)
 - **LLM**: GPT-based content generation
-- **Deployment**: Docker (optional), hosted on cloud environments
+- **Deployment**: [Render](https://render.com/)
 
 ---
 
