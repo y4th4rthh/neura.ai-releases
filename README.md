@@ -35,10 +35,11 @@ https://neura-inc.netlify.app/
 
 ---
 ## 📌 Outlook
-### Neura.explore AI integrated browser:
+## Neura.explore AI integrated browser:
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-11-13%20234439.png)
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-11-19%20130057.png)
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-11-19%20130115.png)
+## Neura.ai:
 ### neura.essence.1.o
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-10-21%20101853.png)
 ### neura.essence.1.o (Prompt Generation tool)
