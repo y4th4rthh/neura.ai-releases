@@ -23,15 +23,15 @@ https://neura-inc.netlify.app/
 
 *1. Neura.ai (Windows)*
 
-[Click here to download the .exe bundle](https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.ai.10.7.exe)
+[Click here to download the .exe bundle](https://github.com/y4th4rthh/neura.ai-releases/releases/latest/download/neura.ai.exe)
 
 *2. Neura.ai (Android)*
 
-[Click here to download the .apk bundle](https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.ai.10.7.apk)
+[Click here to download the .apk bundle](https://github.com/y4th4rthh/neura.ai-releases/releases/latest/download/neura.ai.apk)
 
 *3. Neura.explore Ai integrated Browser with hybrid search mode (Windows)*
 
-[Click here to download the installer](https://github.com/y4th4rthh/neura.ai-releases/releases/download/v10.7/neura.explore.exe)
+[Click here to download the installer](https://github.com/y4th4rthh/neura.ai-releases/releases/latest/download/neura.explore.exe)
 
 ---
 ## 📌 Outlook
