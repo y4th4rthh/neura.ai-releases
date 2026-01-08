@@ -37,6 +37,7 @@ https://neura-inc.netlify.app/
 ## 📌 Outlook
 ## Neura.explore AI integrated browser:
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-11-13%20234439.png)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202026-01-02%20234901.png)
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-11-19%20134828.png)
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/Screenshot%202025-11-19%20130115.png)
 ## Neura.ai:
