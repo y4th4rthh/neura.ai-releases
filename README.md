@@ -8,6 +8,22 @@ Built with a modern tech stack—**React** for the frontend and **FastAPI (Pytho
 
 **The current repo contains the source code of the landing page of Neura.ai**
 
+# Neura Explore
+
+**Neura.explore** is a privacy-focused, AI-native desktop browser designed to bridge the gap between traditional web browsing and modern LLM intelligence. Featuring a custom-built hybrid search engine, it augments standard search results with real-time AI summaries and provides a distraction-free experience with an integrated system-wide adblocker.
+
+Key Features:
+
+Hybrid Search Mode: Automatically injects real-time AI insights (powered by neura.vista1.o) into Google Search, Quora, and major news outlets.
+
+Neura Adblocker: A native engine specifically optimized to eliminate advertisements on YouTube, Reddit, and news platforms.
+
+Persistent Contextual History: Intelligent session management that allows users to pick up exactly where they left off with cross-tab memory.
+
+UI/UX Design: A sleek, dark-themed interface built for power users, featuring a vertical tab management system and a dedicated AI assistant sidebar.
+
+Cross-Platform Performance: Developed as a standalone desktop application for Windows and Linux, ensuring low latency and native OS integration.
+
 ---
 ## 🌐 Live Preview
 
