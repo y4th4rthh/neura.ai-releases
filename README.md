@@ -45,9 +45,25 @@ https://neura-inc.netlify.app/
 ---
 ## 📌 Outlook
 ## Neura.explore AI integrated browser:
+### Landing Page
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne1.png)
+### Multi-Tab Functionality
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne2.png)
-![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/ne1.png)
+### AI overview on web searches
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne3.png)
+### Follow ups & Contextual Summary
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne4.png)
+### Native Context Menu
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne5.png)
+### Shortcuts & Native URLs
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne6.png)
+### Persistent Adblocker
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne7.png)
+### Browser History
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne8.png)
+### Download Tab
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/ne9.png)
+
 ## Neura.ai:
 ### neura.essence.1.o
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/nai-1.png)
