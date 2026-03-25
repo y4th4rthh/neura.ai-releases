@@ -77,6 +77,8 @@ https://neura-inc.netlify.app/
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/nai-5.png)
 ### neura.infinity.1.o (with Doc. uploader)
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/nai-6.png)
+### neura.infinity.1.o (Snap Analyzer)
+![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/nai-9.png)
 ### Ai studio -- Custom GPTs
 ![Preview](https://github.com/y4th4rthh/neura.ai-releases/blob/main/public/nai-7.png)
 ### Chat Session (with sidebar insights)
