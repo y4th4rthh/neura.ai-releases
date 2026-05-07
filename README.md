@@ -7,7 +7,6 @@ Built with a modern tech stack—**React** for the frontend and **FastAPI (Pytho
 
 **Neura.explore** is a privacy-focused, AI-native desktop browser designed to bridge the gap between traditional web browsing and modern LLM intelligence. Featuring a custom-built hybrid search engine, it augments standard search results with real-time AI summaries and provides a distraction-free experience with an integrated system-wide adblocker.
 
-**Source code of Neura.ai is proprietary atp check live app through below url**
 
 ---
 ## 🌐 Live Preview
@@ -96,5 +95,4 @@ https://neura-inc.netlify.app/
 
 ---
 
-### 🙂 Source Code is proprietary atp check live app through above url
 
